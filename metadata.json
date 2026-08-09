@@ -1,0 +1,6 @@
+{
+  "name": "LostLink AI",
+  "description": "AI-Powered Lost & Found Platform using Gemini vision analysis, semantic matching, spatial-temporal proximity, and secure fraud-proof ownership verification.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
